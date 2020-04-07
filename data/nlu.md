@@ -46,7 +46,6 @@
 - Zeig mir meine Einkünfte von letzter Woche
 - Zeig mir meine kompletten Einkünfte aus dem letzten Jahr
 - Wieviel kam im Januar aufs Konto?
- 
 
 ## intent:deny
 - Nicht wirklich
@@ -153,7 +152,7 @@
 - für Freitag
 - für morgen
 - für Samstag
-- Ich möchte mein [Mindestguthaben](payment_amount) auf meine [Gringotts](credit_card) KreditKarte laden 
+- Ich möchte mein [Mindestguthaben](payment_amount) auf meine [Gringotts](credit_card) KreditKarte laden
 - heute
 
 ## intent:pay_cc
@@ -230,4 +229,3 @@
 - Geld senden
 - Meiner Mama Geld schicken
 - Ich muss einem Freund Geld senden
-
